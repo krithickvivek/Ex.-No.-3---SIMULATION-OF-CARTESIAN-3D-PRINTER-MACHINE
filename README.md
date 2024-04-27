@@ -59,6 +59,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![image](https://github.com/krithickvivek/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139331296/64ac1341-70f3-49cd-b626-6f9e942c3f5d)
 
 ### Name: Krithick Vivekananda
 ### Register Number: 212223240075
